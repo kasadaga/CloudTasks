@@ -1,0 +1,7 @@
+2_CloudTasks_2
+	value - styles.xml - Добавлено отсутствие заголовка приложения
+2_CloudTask_3
+	добавлен лайаут lauout - activity_1.xml
+	добавлен активити Activity_1
+	добавлен переход по кнопке Авторизация из MainActivity в Activity_1
+	https://www.youtube.com/watch?	v=SBCRJQGFy88&list=PLiyjLbEJ4htaFo8ujZ5Roiay5Gx5JNL_I&index=65&t=0s
